@@ -1,0 +1,10 @@
+<apex:component controller="contentblockcomponentcontroller2">
+
+
+	<apex:attribute name="name" description="content block component" type="string" required="true" assignTo="{!name}"/>
+	
+	<apex:repeat value="{!items}" var="item">
+		<apex:outputText escape="false" value="{!item.Content__c}"/>
+	</apex:repeat>
+
+</apex:component>
