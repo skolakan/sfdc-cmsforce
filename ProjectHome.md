@@ -1,0 +1,6 @@
+CMSForce is a native Force.com content management system that fully integrates with Salesforce and Sites. Your webmaster can define templates that define the look and feel of your website using standard technologies such as html, flash, css etc...
+
+Business users can then use these templates to create/edit pages on your website via WYSIWYG editing.
+Included also is a point & click editor that allows you to dynamically define forms to collect information from your web site into any standard or custom object.
+
+Great for landing pages, event registration, web2lead, web2case ...
